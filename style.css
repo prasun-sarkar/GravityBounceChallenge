@@ -29,10 +29,10 @@ canvas {
 
 #restartBtn {
     position: fixed;
-    top: 50%;
+    bottom: 120px;
     left: 50%;
-    transform: translate(-50%, -50%);
-    padding: 15px 30px;
+    transform: translateX(-50%);
+    padding: 12px 25px;
     font-size: 20px;
     display: none;
 }
